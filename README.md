@@ -4,3 +4,4 @@
 **Problema:** Padronizar DRE/BP/DFC, projetar fluxos e calcular valuation (DCF + múltiplos) com auditabilidade.  
 **Objetivo:** Ler CSV/JSON, consolidar demonstrativos, projetar FCFF, calcular DCF e múltiplos, gerar relatórios.  
 [Clique aqui para ler o relatório completo](docs/E2_escopo.md)
+linha teste
